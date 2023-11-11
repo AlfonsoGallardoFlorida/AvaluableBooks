@@ -99,7 +99,7 @@ public class Model {
 	}
 
 	/**
-	 * Estableix la connexió com a administrador.
+	 * Establir connexió com a administrador.
 	 */
 	public void connBDAdmin() {
 		try {
@@ -110,7 +110,7 @@ public class Model {
 	}
 
 	/**
-	 * Tanca la connexió amb la base de dades.
+	 * Tancar la connexió amb la base de dades.
 	 */
 
 	public void tancarConn() {
@@ -124,7 +124,7 @@ public class Model {
 	}
 
 	/**
-	 * Obre connexió amb la base de dades.
+	 * Obrir connexió amb la base de dades.
 	 */
 	public void obrirConexion() {
 		try {
