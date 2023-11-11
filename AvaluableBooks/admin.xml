@@ -1,0 +1,5 @@
+<connexio>
+	<url>jdbc:mysql://localhost:3306/books</url>
+	<user>admin</user>
+	<password>admin</password>
+</connexio>
